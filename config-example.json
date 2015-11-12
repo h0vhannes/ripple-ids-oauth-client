@@ -1,0 +1,12 @@
+{
+  "port" : 8000,
+  "ripple_ids_oauth": {
+    "clientID": "",
+    "clientSecret": "",
+    "callbackURL": "",
+    "userAgent": "rippletrade.com",
+    "authorizationURL": "https://id.ripple.com/dialog/authorize",
+    "tokenURL": "https://id.ripple.com/oauth/token",
+    "userProfileURL": "https://id.ripple.com/api/identity/profile"
+  }
+}
